@@ -1,0 +1,6 @@
+https://docs.anaconda.com/anaconda/install/linux/
+conda install -c conda-forge spleeter
+pip install tabulate
+pip install requests_toolbelt
+pip install tensorflow-hub
+sudo apt  install ffmpeg
